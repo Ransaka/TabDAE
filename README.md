@@ -422,7 +422,7 @@ plt.show()
 
 
     
-![png](Build_DAE_files/Build_DAE_21_0.png)
+![PCA_3D](images/PCA_3D.png)
     
 
 
@@ -445,7 +445,7 @@ plt.show()
 
 
     
-![png](Build_DAE_files/Build_DAE_22_0.png)
+![PCA_2D](images/PCA_2D.png)
     
 
 
